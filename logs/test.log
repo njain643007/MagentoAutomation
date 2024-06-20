@@ -332,3 +332,43 @@
 2024-06-20 22:23:32,358 INFO  s.AccountCreationSteps - Filled in the registration form with missing required fields.
 2024-06-20 22:23:39,222 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
 2024-06-20 22:23:39,222 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:35:14,068 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:35:14,082 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:35:19,162 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:35:19,299 INFO  o.magento.pages.AccountCreationPage - Entered first name: Tanushri
+2024-06-20 22:35:19,342 INFO  o.magento.pages.AccountCreationPage - Entered last name: Sharma
+2024-06-20 22:35:19,399 INFO  o.magento.pages.AccountCreationPage - Entered email: aashritha.chopra@gmail.com
+2024-06-20 22:35:19,469 INFO  o.magento.pages.AccountCreationPage - Entered password: <14TkG7xt0
+2024-06-20 22:35:19,511 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: <14TkG7xt0
+2024-06-20 22:35:19,511 INFO  s.AccountCreationSteps - Filled in the registration form with valid data.
+2024-06-20 22:35:25,942 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:35:25,942 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:35:25,968 INFO  s.AccountCreationSteps - Confirmation message is visible.
+2024-06-20 22:35:26,108 INFO  org.magento.drivers.DriverFactory - Clicked sign out button.
+2024-06-20 22:36:26,391 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:36:26,392 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:36:26,862 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:36:26,864 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:36:28,292 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:36:28,408 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:36:28,408 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:36:28,935 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:36:28,935 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:36:30,143 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:36:30,266 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:36:30,266 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:36:30,814 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:36:30,815 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:36:31,809 INFO  s.AccountCreationSteps - Navigated to the Magento login page.
+2024-06-20 22:36:31,917 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:36:31,918 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:36:32,435 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:36:32,435 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:36:33,183 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:36:33,283 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:36:33,283 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:36:33,776 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:36:33,776 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:36:35,217 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:36:35,305 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:36:35,306 INFO  s.AccountCreationSteps - Tear down and closed the driver.
