@@ -1,0 +1,334 @@
+2024-06-20 22:10:07,705 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:10:07,722 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:10:12,681 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:10:12,839 INFO  o.magento.pages.AccountCreationPage - Entered first name: Mohini
+2024-06-20 22:10:12,881 INFO  o.magento.pages.AccountCreationPage - Entered last name: Nehru
+2024-06-20 22:10:12,931 INFO  o.magento.pages.AccountCreationPage - Entered email: invalid-email
+2024-06-20 22:10:12,994 INFO  o.magento.pages.AccountCreationPage - Entered password: yz@TGJ9D21
+2024-06-20 22:10:13,045 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: yz@TGJ9D21
+2024-06-20 22:10:13,045 INFO  s.AccountCreationSteps - Filled in the registration form with invalid email. First name: Mohini, Last name: Nehru, Email: invalid-email
+2024-06-20 22:10:13,109 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:10:13,109 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:10:13,151 INFO  s.AccountCreationSteps - Email error message is visible.
+2024-06-20 22:10:13,237 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:10:13,238 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:10:13,879 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:10:13,881 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:10:17,798 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:10:17,882 INFO  o.magento.pages.AccountCreationPage - Entered first name: Jyoti
+2024-06-20 22:10:17,924 INFO  o.magento.pages.AccountCreationPage - Entered last name: Kaul
+2024-06-20 22:10:17,965 INFO  o.magento.pages.AccountCreationPage - Entered email: shantanu.embranthiri@yahoo.co.in
+2024-06-20 22:10:18,054 INFO  o.magento.pages.AccountCreationPage - Entered password: Q1T}xzq5l8
+2024-06-20 22:10:18,093 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: t61{4H3bEI
+2024-06-20 22:10:18,093 INFO  s.AccountCreationSteps - Filled in the registration form with mismatched passwords. First name: Jyoti, Last name: Kaul, Email: shantanu.embranthiri@yahoo.co.in
+2024-06-20 22:10:18,150 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:10:18,150 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:10:18,173 INFO  s.AccountCreationSteps - Password mismatch error message is visible.
+2024-06-20 22:10:18,254 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:10:18,255 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:10:18,812 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:10:18,812 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:10:24,824 INFO  s.AccountCreationSteps - Navigated to the Magento login page.
+2024-06-20 22:10:24,896 INFO  org.magento.drivers.DriverFactory - Entered email: devika.pandey@yahoo.co.in
+2024-06-20 22:10:24,936 INFO  org.magento.drivers.DriverFactory - Entered password: 0}3RTZ8o59
+2024-06-20 22:10:26,896 INFO  org.magento.drivers.DriverFactory - Clicked sign in button.
+2024-06-20 22:10:26,897 INFO  s.AccountCreationSteps - Attempted to sign in with incorrect credentials. Email: devika.pandey@yahoo.co.in
+2024-06-20 22:10:26,924 INFO  s.AccountCreationSteps - Authentication error message is visible.
+2024-06-20 22:10:27,009 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:10:27,009 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:10:27,570 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:10:27,572 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:10:32,634 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:10:32,707 INFO  o.magento.pages.AccountCreationPage - Entered first name: Anagh
+2024-06-20 22:10:32,758 INFO  o.magento.pages.AccountCreationPage - Entered last name: Chopra
+2024-06-20 22:10:32,824 INFO  o.magento.pages.AccountCreationPage - Entered email: naveen.bharadwaj@yahoo.co.in
+2024-06-20 22:10:32,904 INFO  o.magento.pages.AccountCreationPage - Entered password: weakpass
+2024-06-20 22:10:32,942 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: weakpass
+2024-06-20 22:10:32,942 INFO  s.AccountCreationSteps - Filled in the registration form with a weak password. First name: Anagh, Last name: Chopra, Email: naveen.bharadwaj@yahoo.co.in
+2024-06-20 22:10:33,014 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:10:33,015 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:10:33,045 INFO  s.AccountCreationSteps - Weak password error message is visible.
+2024-06-20 22:10:33,120 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:10:33,120 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:10:33,670 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:10:33,672 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:10:38,440 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:10:38,492 INFO  o.magento.pages.AccountCreationPage - Entered first name: 
+2024-06-20 22:10:38,525 INFO  o.magento.pages.AccountCreationPage - Entered last name: 
+2024-06-20 22:10:38,560 INFO  o.magento.pages.AccountCreationPage - Entered email: 
+2024-06-20 22:10:38,603 INFO  o.magento.pages.AccountCreationPage - Entered password: 
+2024-06-20 22:10:38,639 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: 
+2024-06-20 22:10:38,639 INFO  s.AccountCreationSteps - Filled in the registration form with missing required fields.
+2024-06-20 22:10:38,705 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:10:38,705 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:10:38,735 INFO  s.AccountCreationSteps - Missing fields error message is visible.
+2024-06-20 22:10:38,813 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:10:38,814 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:12:08,713 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:12:08,727 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:12:14,224 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:12:14,351 INFO  o.magento.pages.AccountCreationPage - Entered first name: Bhagwanti
+2024-06-20 22:12:14,398 INFO  o.magento.pages.AccountCreationPage - Entered last name: Varman
+2024-06-20 22:12:14,450 INFO  o.magento.pages.AccountCreationPage - Entered email: invalid-email
+2024-06-20 22:12:14,514 INFO  o.magento.pages.AccountCreationPage - Entered password: G4X4#0N8nk
+2024-06-20 22:12:14,553 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: G4X4#0N8nk
+2024-06-20 22:12:14,553 INFO  s.AccountCreationSteps - Filled in the registration form with invalid email. First name: Bhagwanti, Last name: Varman, Email: invalid-email
+2024-06-20 22:12:14,633 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:12:14,634 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:12:14,672 INFO  s.AccountCreationSteps - Email error message is visible.
+2024-06-20 22:12:14,756 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:12:14,756 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:12:15,324 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:12:15,327 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:12:20,461 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:12:20,545 INFO  o.magento.pages.AccountCreationPage - Entered first name: Bhamini
+2024-06-20 22:12:20,585 INFO  o.magento.pages.AccountCreationPage - Entered last name: Butt
+2024-06-20 22:12:20,637 INFO  o.magento.pages.AccountCreationPage - Entered email: aadi.kakkar@yahoo.co.in
+2024-06-20 22:12:20,712 INFO  o.magento.pages.AccountCreationPage - Entered password: 6pIA9_90Bx
+2024-06-20 22:12:20,752 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: >I691Bw747
+2024-06-20 22:12:20,752 INFO  s.AccountCreationSteps - Filled in the registration form with mismatched passwords. First name: Bhamini, Last name: Butt, Email: aadi.kakkar@yahoo.co.in
+2024-06-20 22:12:20,816 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:12:20,816 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:12:20,855 INFO  s.AccountCreationSteps - Password mismatch error message is visible.
+2024-06-20 22:12:20,933 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:12:20,933 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:12:21,527 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:12:21,529 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:12:26,378 INFO  s.AccountCreationSteps - Navigated to the Magento login page.
+2024-06-20 22:12:26,456 INFO  org.magento.drivers.DriverFactory - Entered email: daevika.ahluwalia@gmail.com
+2024-06-20 22:12:26,503 INFO  org.magento.drivers.DriverFactory - Entered password: z@2T6OqPZz
+2024-06-20 22:12:28,781 INFO  org.magento.drivers.DriverFactory - Clicked sign in button.
+2024-06-20 22:12:28,781 INFO  s.AccountCreationSteps - Attempted to sign in with incorrect credentials. Email: daevika.ahluwalia@gmail.com
+2024-06-20 22:12:28,802 INFO  s.AccountCreationSteps - Authentication error message is visible.
+2024-06-20 22:12:28,879 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:12:28,879 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:12:29,489 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:12:29,490 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:12:34,887 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:12:34,955 INFO  o.magento.pages.AccountCreationPage - Entered first name: Harita
+2024-06-20 22:12:35,000 INFO  o.magento.pages.AccountCreationPage - Entered last name: Saini
+2024-06-20 22:12:35,070 INFO  o.magento.pages.AccountCreationPage - Entered email: tanya.mukhopadhyay@hotmail.com
+2024-06-20 22:12:35,140 INFO  o.magento.pages.AccountCreationPage - Entered password: weakpass
+2024-06-20 22:12:35,185 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: weakpass
+2024-06-20 22:12:35,185 INFO  s.AccountCreationSteps - Filled in the registration form with a weak password. First name: Harita, Last name: Saini, Email: tanya.mukhopadhyay@hotmail.com
+2024-06-20 22:12:35,257 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:12:35,257 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:12:35,368 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:12:35,368 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:12:35,982 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:12:35,983 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:13:29,991 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:13:30,085 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:13:30,085 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:16:58,882 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:16:58,901 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:17:03,972 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:17:04,119 INFO  o.magento.pages.AccountCreationPage - Entered first name: Shakuntala
+2024-06-20 22:17:04,162 INFO  o.magento.pages.AccountCreationPage - Entered last name: Shukla
+2024-06-20 22:17:04,207 INFO  o.magento.pages.AccountCreationPage - Entered email: invalid-email
+2024-06-20 22:17:04,277 INFO  o.magento.pages.AccountCreationPage - Entered password: :H96Y85Lo5
+2024-06-20 22:17:04,316 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: :H96Y85Lo5
+2024-06-20 22:17:04,316 INFO  s.AccountCreationSteps - Filled in the registration form with invalid email. First name: Shakuntala, Last name: Shukla, Email: invalid-email
+2024-06-20 22:17:04,402 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:17:04,403 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:17:04,527 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:17:04,528 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:17:05,056 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:17:05,060 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:17:10,397 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:17:10,492 INFO  o.magento.pages.AccountCreationPage - Entered first name: Rajan
+2024-06-20 22:17:10,537 INFO  o.magento.pages.AccountCreationPage - Entered last name: Ganaka
+2024-06-20 22:17:10,600 INFO  o.magento.pages.AccountCreationPage - Entered email: mukul.shukla@hotmail.com
+2024-06-20 22:17:10,667 INFO  o.magento.pages.AccountCreationPage - Entered password: F76Uhm:sbp
+2024-06-20 22:17:10,706 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: r<6OW0G84J
+2024-06-20 22:17:10,706 INFO  s.AccountCreationSteps - Filled in the registration form with mismatched passwords. First name: Rajan, Last name: Ganaka, Email: mukul.shukla@hotmail.com
+2024-06-20 22:17:10,787 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:17:10,787 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:17:10,823 INFO  s.AccountCreationSteps - Password mismatch error message is visible.
+2024-06-20 22:17:10,904 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:17:10,904 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:17:11,422 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:17:11,423 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:17:16,569 INFO  s.AccountCreationSteps - Navigated to the Magento login page.
+2024-06-20 22:17:16,649 INFO  org.magento.drivers.DriverFactory - Entered email: brahmanandam.bhattathiri@hotmail.com
+2024-06-20 22:17:16,688 INFO  org.magento.drivers.DriverFactory - Entered password: e33vbG4c:8
+2024-06-20 22:17:18,346 INFO  org.magento.drivers.DriverFactory - Clicked sign in button.
+2024-06-20 22:17:18,347 INFO  s.AccountCreationSteps - Attempted to sign in with incorrect credentials. Email: brahmanandam.bhattathiri@hotmail.com
+2024-06-20 22:17:18,369 INFO  s.AccountCreationSteps - Authentication error message is visible.
+2024-06-20 22:17:18,447 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:17:18,447 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:17:18,995 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:17:18,996 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:17:23,982 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:17:24,052 INFO  o.magento.pages.AccountCreationPage - Entered first name: Chaturaanan
+2024-06-20 22:17:24,097 INFO  o.magento.pages.AccountCreationPage - Entered last name: Dubashi
+2024-06-20 22:17:24,161 INFO  o.magento.pages.AccountCreationPage - Entered email: bhardwaj.gandhi@hotmail.com
+2024-06-20 22:17:24,222 INFO  o.magento.pages.AccountCreationPage - Entered password: weakpass
+2024-06-20 22:17:24,266 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: weakpass
+2024-06-20 22:17:24,266 INFO  s.AccountCreationSteps - Filled in the registration form with a weak password. First name: Chaturaanan, Last name: Dubashi, Email: bhardwaj.gandhi@hotmail.com
+2024-06-20 22:17:24,326 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:17:24,326 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:17:24,449 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:17:24,450 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:17:24,976 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:17:24,977 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:17:29,218 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:17:29,277 INFO  o.magento.pages.AccountCreationPage - Entered first name: 
+2024-06-20 22:17:29,309 INFO  o.magento.pages.AccountCreationPage - Entered last name: 
+2024-06-20 22:17:29,341 INFO  o.magento.pages.AccountCreationPage - Entered email: 
+2024-06-20 22:17:29,377 INFO  o.magento.pages.AccountCreationPage - Entered password: 
+2024-06-20 22:17:29,412 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: 
+2024-06-20 22:17:29,412 INFO  s.AccountCreationSteps - Filled in the registration form with missing required fields.
+2024-06-20 22:17:29,499 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:17:29,499 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:17:29,521 INFO  s.AccountCreationSteps - Missing fields error message is visible.
+2024-06-20 22:17:29,593 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:17:29,594 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:20:33,908 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:20:33,928 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:20:39,471 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:20:39,613 INFO  o.magento.pages.AccountCreationPage - Entered first name: Vasundhara
+2024-06-20 22:20:39,656 INFO  o.magento.pages.AccountCreationPage - Entered last name: Kaur
+2024-06-20 22:20:39,708 INFO  o.magento.pages.AccountCreationPage - Entered email: invalid-email
+2024-06-20 22:20:39,776 INFO  o.magento.pages.AccountCreationPage - Entered password: 8kO0m7VNn(
+2024-06-20 22:20:39,817 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: 8kO0m7VNn(
+2024-06-20 22:20:39,817 INFO  s.AccountCreationSteps - Filled in the registration form with invalid email. First name: Vasundhara, Last name: Kaur, Email: invalid-email
+2024-06-20 22:20:39,890 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:20:39,890 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:20:40,140 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:20:40,140 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:20:40,741 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:20:40,742 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:20:45,536 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:20:45,620 INFO  o.magento.pages.AccountCreationPage - Entered first name: Vidur
+2024-06-20 22:20:45,661 INFO  o.magento.pages.AccountCreationPage - Entered last name: Sharma
+2024-06-20 22:20:45,721 INFO  o.magento.pages.AccountCreationPage - Entered email: aditeya.mukhopadhyay@gmail.com
+2024-06-20 22:20:45,789 INFO  o.magento.pages.AccountCreationPage - Entered password: _miDY6V3pW
+2024-06-20 22:20:45,831 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: 7}NRMZdo9b
+2024-06-20 22:20:45,831 INFO  s.AccountCreationSteps - Filled in the registration form with mismatched passwords. First name: Vidur, Last name: Sharma, Email: aditeya.mukhopadhyay@gmail.com
+2024-06-20 22:20:45,910 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:20:45,910 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:20:45,940 INFO  s.AccountCreationSteps - Password mismatch error message is visible.
+2024-06-20 22:20:46,029 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:20:46,029 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:20:46,578 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:20:46,580 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:20:51,834 INFO  s.AccountCreationSteps - Navigated to the Magento login page.
+2024-06-20 22:20:51,912 INFO  org.magento.drivers.DriverFactory - Entered email: asha.chopra@hotmail.com
+2024-06-20 22:20:51,951 INFO  org.magento.drivers.DriverFactory - Entered password: Mk:9D8cY5N
+2024-06-20 22:20:53,924 INFO  org.magento.drivers.DriverFactory - Clicked sign in button.
+2024-06-20 22:20:53,924 INFO  s.AccountCreationSteps - Attempted to sign in with incorrect credentials. Email: asha.chopra@hotmail.com
+2024-06-20 22:20:53,946 INFO  s.AccountCreationSteps - Authentication error message is visible.
+2024-06-20 22:20:54,026 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:20:54,026 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:20:54,552 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:20:54,554 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:20:59,418 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:20:59,491 INFO  o.magento.pages.AccountCreationPage - Entered first name: Akshata
+2024-06-20 22:20:59,532 INFO  o.magento.pages.AccountCreationPage - Entered last name: Sinha
+2024-06-20 22:20:59,610 INFO  o.magento.pages.AccountCreationPage - Entered email: charuchandra.desai@yahoo.co.in
+2024-06-20 22:20:59,698 INFO  o.magento.pages.AccountCreationPage - Entered password: weakpass
+2024-06-20 22:20:59,739 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: weakpass
+2024-06-20 22:20:59,739 INFO  s.AccountCreationSteps - Filled in the registration form with a weak password. First name: Akshata, Last name: Sinha, Email: charuchandra.desai@yahoo.co.in
+2024-06-20 22:20:59,811 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:20:59,812 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:21:00,021 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:21:00,021 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:21:00,509 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:21:00,510 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:21:05,244 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:21:05,293 INFO  o.magento.pages.AccountCreationPage - Entered first name: 
+2024-06-20 22:21:05,326 INFO  o.magento.pages.AccountCreationPage - Entered last name: 
+2024-06-20 22:21:05,361 INFO  o.magento.pages.AccountCreationPage - Entered email: 
+2024-06-20 22:21:05,401 INFO  o.magento.pages.AccountCreationPage - Entered password: 
+2024-06-20 22:21:05,439 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: 
+2024-06-20 22:21:05,439 INFO  s.AccountCreationSteps - Filled in the registration form with missing required fields.
+2024-06-20 22:21:05,504 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:21:05,504 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:21:05,535 INFO  s.AccountCreationSteps - Missing fields error message is visible.
+2024-06-20 22:21:05,612 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:21:05,612 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:22:11,229 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:22:11,245 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:22:16,294 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:22:16,479 INFO  o.magento.pages.AccountCreationPage - Entered first name: Kailash
+2024-06-20 22:22:16,526 INFO  o.magento.pages.AccountCreationPage - Entered last name: Agarwal
+2024-06-20 22:22:16,584 INFO  o.magento.pages.AccountCreationPage - Entered email: gautam.kocchar@yahoo.co.in
+2024-06-20 22:22:16,657 INFO  o.magento.pages.AccountCreationPage - Entered password: 0!1X1oWH6Z
+2024-06-20 22:22:16,699 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: 0!1X1oWH6Z
+2024-06-20 22:22:16,699 INFO  s.AccountCreationSteps - Filled in the registration form with valid data.
+2024-06-20 22:22:20,301 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:22:20,301 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:22:20,328 INFO  s.AccountCreationSteps - Confirmation message is visible.
+2024-06-20 22:22:22,675 INFO  org.magento.drivers.DriverFactory - Clicked sign out button.
+2024-06-20 22:22:22,700 INFO  s.AccountCreationSteps - User is logged out successfully.
+2024-06-20 22:22:23,819 INFO  org.magento.drivers.DriverFactory - Entered email: mangala.namboothiri@yahoo.co.in
+2024-06-20 22:22:23,861 INFO  org.magento.drivers.DriverFactory - Entered password: 2XDfuR04q:
+2024-06-20 22:22:26,058 INFO  org.magento.drivers.DriverFactory - Clicked sign in button.
+2024-06-20 22:22:26,058 INFO  s.AccountCreationSteps - Signed in with the newly created account.
+2024-06-20 22:22:26,082 INFO  s.AccountCreationSteps - User is logged in successfully.
+2024-06-20 22:22:26,176 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:22:26,176 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:22:26,742 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:22:26,746 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:22:31,539 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:22:31,635 INFO  o.magento.pages.AccountCreationPage - Entered first name: Dhanvin
+2024-06-20 22:22:31,674 INFO  o.magento.pages.AccountCreationPage - Entered last name: Dwivedi
+2024-06-20 22:22:31,720 INFO  o.magento.pages.AccountCreationPage - Entered email: invalid-email
+2024-06-20 22:22:31,788 INFO  o.magento.pages.AccountCreationPage - Entered password: 34}HCE0Wm4
+2024-06-20 22:22:31,835 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: 34}HCE0Wm4
+2024-06-20 22:22:31,836 INFO  s.AccountCreationSteps - Filled in the registration form with invalid email. First name: Dhanvin, Last name: Dwivedi, Email: invalid-email
+2024-06-20 22:22:31,908 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:22:31,908 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:22:31,933 INFO  s.AccountCreationSteps - Email error message is visible.
+2024-06-20 22:22:32,011 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:22:32,011 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:22:32,549 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:22:32,550 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:22:37,705 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:22:37,774 INFO  o.magento.pages.AccountCreationPage - Entered first name: Mani
+2024-06-20 22:22:37,813 INFO  o.magento.pages.AccountCreationPage - Entered last name: Malik
+2024-06-20 22:22:37,865 INFO  o.magento.pages.AccountCreationPage - Entered email: enakshi.guneta@hotmail.com
+2024-06-20 22:22:37,931 INFO  o.magento.pages.AccountCreationPage - Entered password: f>80gO6Ddz
+2024-06-20 22:22:37,984 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: 4Jk4514<UL
+2024-06-20 22:22:37,985 INFO  s.AccountCreationSteps - Filled in the registration form with mismatched passwords. First name: Mani, Last name: Malik, Email: enakshi.guneta@hotmail.com
+2024-06-20 22:22:38,057 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:22:38,057 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:22:38,085 INFO  s.AccountCreationSteps - Password mismatch error message is visible.
+2024-06-20 22:22:38,165 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:22:38,166 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:22:38,676 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:22:38,678 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:22:42,850 INFO  s.AccountCreationSteps - Navigated to the Magento login page.
+2024-06-20 22:22:42,939 INFO  org.magento.drivers.DriverFactory - Entered email: vaishvi.khanna@gmail.com
+2024-06-20 22:22:42,994 INFO  org.magento.drivers.DriverFactory - Entered password: j6Hph1R_cL
+2024-06-20 22:22:48,391 INFO  org.magento.drivers.DriverFactory - Clicked sign in button.
+2024-06-20 22:22:48,391 INFO  s.AccountCreationSteps - Attempted to sign in with incorrect credentials. Email: vaishvi.khanna@gmail.com
+2024-06-20 22:22:48,416 INFO  s.AccountCreationSteps - Authentication error message is visible.
+2024-06-20 22:22:48,500 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:22:48,500 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:22:48,998 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:22:48,998 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:22:54,458 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:22:54,524 INFO  o.magento.pages.AccountCreationPage - Entered first name: Draupadi
+2024-06-20 22:22:54,561 INFO  o.magento.pages.AccountCreationPage - Entered last name: Khanna
+2024-06-20 22:22:54,611 INFO  o.magento.pages.AccountCreationPage - Entered email: bhishma.desai@yahoo.co.in
+2024-06-20 22:22:54,673 INFO  o.magento.pages.AccountCreationPage - Entered password: weakpass
+2024-06-20 22:22:54,712 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: weakpass
+2024-06-20 22:22:54,712 INFO  s.AccountCreationSteps - Filled in the registration form with a weak password. First name: Draupadi, Last name: Khanna, Email: bhishma.desai@yahoo.co.in
+2024-06-20 22:22:54,776 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:22:54,777 INFO  s.AccountCreationSteps - Submitted the registration form.
+2024-06-20 22:22:54,823 INFO  s.AccountCreationSteps - Weak password error message is visible.
+2024-06-20 22:22:54,899 INFO  org.magento.drivers.DriverFactory - Driver is closed.
+2024-06-20 22:22:54,899 INFO  s.AccountCreationSteps - Tear down and closed the driver.
+2024-06-20 22:22:55,397 INFO  org.magento.drivers.DriverFactory - Driver is set up and browser window maximized.
+2024-06-20 22:22:55,398 INFO  s.AccountCreationSteps - Opening chrome browser
+2024-06-20 22:23:32,177 INFO  s.AccountCreationSteps - Navigated to the Magento registration page.
+2024-06-20 22:23:32,223 INFO  o.magento.pages.AccountCreationPage - Entered first name: 
+2024-06-20 22:23:32,256 INFO  o.magento.pages.AccountCreationPage - Entered last name: 
+2024-06-20 22:23:32,289 INFO  o.magento.pages.AccountCreationPage - Entered email: 
+2024-06-20 22:23:32,322 INFO  o.magento.pages.AccountCreationPage - Entered password: 
+2024-06-20 22:23:32,358 INFO  o.magento.pages.AccountCreationPage - Entered confirm password: 
+2024-06-20 22:23:32,358 INFO  s.AccountCreationSteps - Filled in the registration form with missing required fields.
+2024-06-20 22:23:39,222 INFO  o.magento.pages.AccountCreationPage - Submitted the registration form.
+2024-06-20 22:23:39,222 INFO  s.AccountCreationSteps - Submitted the registration form.
